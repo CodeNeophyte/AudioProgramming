@@ -5,6 +5,9 @@
 * Music Machinery: https://musicmachinery.com
 * Stanford CCRMA: https://ccrma.stanford.edu
 * Kadenze: https://www.kadenze.com
+* Jython Music: https://jythonmusic.me
+* JMusic: http://explodingart.com/jmusic/
+* JSyn: http://www.softsynth.com/jsyn/index.php
 
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
