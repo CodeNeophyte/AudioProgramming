@@ -23,11 +23,41 @@
 * Pure Data - https://puredata.info
 * C
 * C++
+* Sporth - https://github.com/PaulBatchelor/Sporth
+
+## Frameworks and libraries
+* https://juce.com - C++ framework
+* https://github.com/AudioKit/AudioKit - iOS framework
+* https://github.com/PaulBatchelor/Soundpipe - Soundpipe
+
+## DSP
+* http://dspguide.com
 
 ## Ideas/Interests
 1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
 2. build interactive synthesis objects that allows OS to control sound parameters dynamically
 3. Start several distinct music processes that respond to actions upon particular game objects/user interactions 
+
+## Good Blogs
+* http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
+* http://allthingsmodular.blogspot.com - A blog by Darwin
+* http://cdm.link
+* http://www.synthtopia.com
+
+## Podcasts
+* http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
+
+## Great Projects
+#### Arduino base
+* https://meeblip.com - Open source Synth
+* https://github.com/MeeBlip - Meeblip repo
+
+## Employers - besides the usual suspects and major audio/music complanies
+* https://artandlogic.com
+
+## Sound Design
+* https://www.pointblankmusicschool.com/courses/online/professional-programmes/complete-sound-design/
+
 
 ## Focus areas/Goals for music technology (taken from Calarts website)
 The Music Technology program aims to built strong musical skills while promoting the mastery of a variety of music-related technologies in the context of pursuing creative work. Specifically, Music Technology students will have opportunities to:
