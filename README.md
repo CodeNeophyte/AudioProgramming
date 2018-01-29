@@ -40,3 +40,37 @@ The Music Technology program aims to built strong musical skills while promoting
 * learn to design and build basic electronic circuits and make human computer interface designs for artistic practices;
 * acquire knowledge of basic digital signal processing and how it relates to audio, including time and frequency domain processing and how these may be manipulated for artistic practices;
 * develop high-level practical and professional skills, including the ability to synthesize diverse studies, project planning, execution, time management, and documentation of both technical and musical work at a level suitable for publication in a professional journal.
+
+## Music technology MFA degree requirement
+Program Requirements
+
+* MTEC600 Topics in Music Technology (2 classes)
+* MFOR506 Creative Technology Forum (4 classes)
+* MTEC613 & MTEC614 Introduction to Programming I & II (2 classes)
+* MTEC621 C++ for Electronic Music I (1 class)
+* MTEC630 & MTEC631 Interface Design I & II (2 classes)
+* MTEC660 Audio Signal Processing (1 class)
+* MTEC685 Teaching in Technology (2 classes)
+* MHST525 Survey of Sound Art (1 class)
+* MTEC690 Music Technology MFA Project (variable units; must enroll each semester in residence)
+2 Music Technology electives, chosen from (2 classes):
+* MTEC580 Advanced Web Application Development
+* MTEC680 Music Information Retrieval & Machine Learning for Art
+* MTEC616 Visual Programming
+* MTEC550 Robotic Design for Music
+* MTEC612 Mobile Music Computing
+* MTEC622 C++ for Electronic Music II
+* MTEC635 Advanced Circuit Design
+* MTEC640 Programming for Raspberry Pi
+* MTEC650 Sound Synthesis
+* MTEC655 Advanced Synthesis
+2 Digital Performance Ensemble electives, chosen from (2 classes):
+* IIMC550 SoundGameSpace
+* MBLE625 Creative Electronic Ensemble
+* MCMP615 Choreographers & Composers
+* MTEC540 Machine Orchestra
+* MTEC618 Data Driven Art & Visuals
+* MTEC619 Experience Design & Technology
+* MTEC520 Grids, Beats, and Groups
+* MTEC530 21st-Century Raga & Tala
+* MTEC541 Composition for Robots
