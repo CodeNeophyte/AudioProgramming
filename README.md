@@ -42,7 +42,7 @@ The Music Technology program aims to built strong musical skills while promoting
 * develop high-level practical and professional skills, including the ability to synthesize diverse studies, project planning, execution, time management, and documentation of both technical and musical work at a level suitable for publication in a professional journal.
 
 ## Music technology MFA degree requirement
-Program Requirements
+#### Program Requirements
 
 * MTEC600 Topics in Music Technology (2 classes)
 * MFOR506 Creative Technology Forum (4 classes)
@@ -53,7 +53,7 @@ Program Requirements
 * MTEC685 Teaching in Technology (2 classes)
 * MHST525 Survey of Sound Art (1 class)
 * MTEC690 Music Technology MFA Project (variable units; must enroll each semester in residence)
-2 Music Technology electives, chosen from (2 classes):
+##### 2 Music Technology electives, chosen from (2 classes):
 * MTEC580 Advanced Web Application Development
 * MTEC680 Music Information Retrieval & Machine Learning for Art
 * MTEC616 Visual Programming
@@ -64,7 +64,7 @@ Program Requirements
 * MTEC640 Programming for Raspberry Pi
 * MTEC650 Sound Synthesis
 * MTEC655 Advanced Synthesis
-2 Digital Performance Ensemble electives, chosen from (2 classes):
+##### 2 Digital Performance Ensemble electives, chosen from (2 classes):
 * IIMC550 SoundGameSpace
 * MBLE625 Creative Electronic Ensemble
 * MCMP615 Choreographers & Composers
