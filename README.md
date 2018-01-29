@@ -9,12 +9,25 @@
 * JMusic: http://explodingart.com/jmusic/
 * JSyn: http://www.softsynth.com/jsyn/index.php
 
+## Advice for getting into audio programming
+* https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
+* https://ask.metafilter.com/308083/Best-books-resources-for-learning-audio-programmingalso
+* http://designingsound.org/2016/07/self-teaching-your-way-into-the-audio-world/
+
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
 * MIT - Music and Technology: Algorithmic and Generative Music: https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/
 * MIT - Music and Technology: Live Electronics Performance Practices: https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/
 * MIT - Composing with Computers I (Electronic Music Composition): https://ocw.mit.edu/courses/music-and-theater-arts/21m-361-composing-with-computers-i-electronic-music-composition-spring-2008/
 * MIT - Music and Technology: Sound Design: https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-sound-design-spring-2016/
+* Coursera - Audio Signal Processing: https://www.coursera.org/learn/audio-signal-processing
+
+## Books
+* The Theory and Techniques of Electronic Music (Miller Puckette)
+* The Audio Programming Book (Richard Boulanger/Victor Lazzarini)
+* Programming Electronic Music in Pure Data (Johannes Kreidler)
+* Electronic Music and Sound Design (Alessandro Cipriani/Maurizio Giri)
+* 
 
 ## Languages
 * MAX - https://cycling74.com
@@ -43,6 +56,7 @@
 * http://allthingsmodular.blogspot.com - A blog by Darwin
 * http://cdm.link
 * http://www.synthtopia.com
+* http://derelict.computer
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
@@ -59,7 +73,6 @@
 
 ## Sound Design
 * https://www.pointblankmusicschool.com/courses/online/professional-programmes/complete-sound-design/
-
 
 ## Focus areas/Goals for music technology (taken from Calarts website)
 The Music Technology program aims to built strong musical skills while promoting the mastery of a variety of music-related technologies in the context of pursuing creative work. Specifically, Music Technology students will have opportunities to:
