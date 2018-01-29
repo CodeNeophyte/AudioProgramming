@@ -51,6 +51,8 @@
 #### Arduino base
 * https://meeblip.com - Open source Synth
 * https://github.com/MeeBlip - Meeblip repo
+#### littleBits
+* https://littlebits.cc/meet-darwin
 
 ## Employers - besides the usual suspects and major audio/music complanies
 * https://artandlogic.com
