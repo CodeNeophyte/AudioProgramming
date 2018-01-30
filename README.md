@@ -26,8 +26,12 @@
 * The Theory and Techniques of Electronic Music (Miller Puckette)
 * The Audio Programming Book (Richard Boulanger/Victor Lazzarini)
 * Programming Electronic Music in Pure Data (Johannes Kreidler)
-* Electronic Music and Sound Design (Alessandro Cipriani/Maurizio Giri)
-* 
+* Electronic Music and Sound Design V1 & V2 (Alessandro Cipriani/Maurizio Giri)
+
+## Open Source
+* http://zynaddsubfx.sourceforge.net
+* https://github.com/ossu/computer-science - open source computer science
+* https://see.stanford.edu - Standford Computer Science/engineering courses
 
 ## Languages
 * MAX - https://cycling74.com
