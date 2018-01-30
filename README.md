@@ -61,6 +61,8 @@
 * http://cdm.link
 * http://www.synthtopia.com
 * http://derelict.computer
+* https://adamtcroft.com
+* https://www.peterbatchelor.com/maxtuts
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
