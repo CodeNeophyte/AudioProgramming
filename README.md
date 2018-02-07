@@ -64,6 +64,8 @@
 * http://derelict.computer
 * https://adamtcroft.com
 * https://www.peterbatchelor.com/maxtuts
+* http://audanika.tumblr.com
+* https://christianfloisand.wordpress.com
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
