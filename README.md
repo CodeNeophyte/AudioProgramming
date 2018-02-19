@@ -66,6 +66,7 @@
 * https://www.peterbatchelor.com/maxtuts
 * http://audanika.tumblr.com
 * https://christianfloisand.wordpress.com
+* http://trashaudio.com
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
