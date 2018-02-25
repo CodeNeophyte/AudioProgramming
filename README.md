@@ -50,6 +50,7 @@
 
 ## DSP
 * http://dspguide.com
+* https://www.youtube.com/watch?v=tx_cjBjZ2zM - DSP Videos with good links
 
 ## Ideas/Interests
 1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
@@ -67,6 +68,7 @@
 * http://audanika.tumblr.com
 * https://christianfloisand.wordpress.com
 * http://trashaudio.com
+* http://www.earlevel.com/main/ - Amazing DSP blog going back a few years, still current
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
@@ -83,6 +85,9 @@
 
 ## Sound Design
 * https://www.pointblankmusicschool.com/courses/online/professional-programmes/complete-sound-design/
+
+## Resources
+* https://newt.phys.unsw.edu.au/jw/notes.html - MIDI to Frequency table
 
 ## Focus areas/Goals for music technology (taken from Calarts website)
 The Music Technology program aims to built strong musical skills while promoting the mastery of a variety of music-related technologies in the context of pursuing creative work. Specifically, Music Technology students will have opportunities to:
