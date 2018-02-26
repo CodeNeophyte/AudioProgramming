@@ -14,6 +14,7 @@
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
 * https://ask.metafilter.com/308083/Best-books-resources-for-learning-audio-programmingalso
 * http://designingsound.org/2016/07/self-teaching-your-way-into-the-audio-world/
+* https://www.youtube.com/watch?v=Kpk67-nfpR0 - The Audio Programmer
 
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
