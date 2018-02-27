@@ -9,6 +9,7 @@
 * JMusic: http://explodingart.com/jmusic/
 * JSyn: http://www.softsynth.com/jsyn/index.php
 * RTcmix: http://rtcmix.org
+* RackAFX: http://www.willpirkle.com
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
