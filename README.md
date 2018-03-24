@@ -50,6 +50,8 @@
 * https://juce.com - C++ framework
 * https://github.com/AudioKit/AudioKit - iOS framework
 * https://github.com/PaulBatchelor/Soundpipe - Soundpipe
+* https://github.com/micknoise/Maximilian - Maximillian
+* http://openframeworks.cc - Open Framework
 
 ## DSP
 * http://dspguide.com
