@@ -11,6 +11,7 @@
 * RTcmix: http://rtcmix.org
 * RackAFX: http://www.willpirkle.com
 * The Audio Programmer youtube channel: https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A
+* KVR Forum: https://www.kvraudio.com/forum/
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
