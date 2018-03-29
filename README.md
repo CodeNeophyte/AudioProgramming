@@ -12,6 +12,9 @@
 * RackAFX: http://www.willpirkle.com
 * The Audio Programmer youtube channel: https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A
 * KVR Forum: https://www.kvraudio.com/forum/
+* Making Audio Plug ins: http://www.martin-finke.de/blog/tags/making_audio_plugins.html
+* Cockos (makers of Reaper): https://www.cockos.com
+* Kimatica (maker of AUM): http://kymatica.com & http://lijon.github.io
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -54,6 +57,8 @@
 * https://github.com/PaulBatchelor/Soundpipe - Soundpipe
 * https://github.com/micknoise/Maximilian - Maximillian
 * http://openframeworks.cc - Open Framework
+* https://github.com/olilarkin/wdl-ol - Cockos iPlug
+* https://github.com/lijon/TheAmazingAudioEngine - for mobile & documentation: http://theamazingaudioengine.com/doc/
 
 ## DSP
 * http://dspguide.com
@@ -63,6 +68,10 @@
 1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
 2. build interactive synthesis objects that allows OS to control sound parameters dynamically
 3. Start several distinct music processes that respond to actions upon particular game objects/user interactions 
+
+## Programming Audio Units
+* https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/AudioUnitDevelopmentFundamentals/AudioUnitDevelopmentFundamentals.html - Audio Unit Development Fundamentals
+* 
 
 ## Good Blogs
 * http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
