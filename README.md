@@ -73,6 +73,7 @@
 ## Programming Audio Units
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/AudioUnitDevelopmentFundamentals/AudioUnitDevelopmentFundamentals.html - Audio Unit Development Fundamentals
 * http://ruismaker.com/au-midi-plugins/ - AUv3 MIDI
+* https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html - Core Audio Overview
 
 ## Good Blogs
 * http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
