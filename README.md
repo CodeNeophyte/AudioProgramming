@@ -50,6 +50,7 @@
 * C
 * C++
 * Sporth - https://github.com/PaulBatchelor/Sporth
+* Faust (DSP) - http://faust.grame.fr
 
 ## Frameworks and libraries
 * https://juce.com - C++ framework
@@ -71,7 +72,7 @@
 
 ## Programming Audio Units
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/AudioUnitDevelopmentFundamentals/AudioUnitDevelopmentFundamentals.html - Audio Unit Development Fundamentals
-* 
+* http://ruismaker.com/au-midi-plugins/ - AUv3 MIDI
 
 ## Good Blogs
 * http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
