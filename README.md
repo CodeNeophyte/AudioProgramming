@@ -61,6 +61,9 @@
 * http://openframeworks.cc - Open Framework
 * https://github.com/olilarkin/wdl-ol - Cockos iPlug
 * https://github.com/lijon/TheAmazingAudioEngine - for mobile & documentation: http://theamazingaudioengine.com/doc/
+* https://ccrma.stanford.edu/software/stk/ - Synthesis ToolKit info
+* https://github.com/thestk/stk - Synthesis ToolKit github
+
 
 ## DSP
 * http://dspguide.com
