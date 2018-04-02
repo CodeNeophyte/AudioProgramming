@@ -57,7 +57,7 @@
 * https://github.com/AudioKit/AudioKit - iOS framework
 * https://github.com/PaulBatchelor/Soundpipe - Soundpipe
 * https://github.com/micknoise/Maximilian - Maximillian
- -> Info on Maximilian: https://quod.lib.umich.edu/cgi/p/pod/dod-idx/maximillian-an-easy-to-use-cross-platform-c-toolkit-for.pdf?c=icmc;idno=bbp2372.2011.054;format=pdf
+ * Info on Maximilian: https://quod.lib.umich.edu/cgi/p/pod/dod-idx/maximillian-an-easy-to-use-cross-platform-c-toolkit-for.pdf?c=icmc;idno=bbp2372.2011.054;format=pdf
 * http://openframeworks.cc - Open Framework
 * https://github.com/olilarkin/wdl-ol - Cockos iPlug
 * https://github.com/lijon/TheAmazingAudioEngine - for mobile & documentation: http://theamazingaudioengine.com/doc/
