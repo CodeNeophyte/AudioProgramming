@@ -16,6 +16,7 @@
 * Cockos (makers of Reaper): https://www.cockos.com
 * Kimatica (maker of AUM): http://kymatica.com & http://lijon.github.io
 * Hack Audio: http://www.hackaudio.com
+* Oli Larkin (Reaper, WDL/iPlug): http://www.olilarkin.co.uk
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -23,6 +24,7 @@
 * http://designingsound.org/2016/07/self-teaching-your-way-into-the-audio-world/
 * https://www.youtube.com/watch?v=Kpk67-nfpR0 - The Audio Programmer
 * https://www.kvraudio.com/forum/viewtopic.php?f=33&t=329696 - KVR
+* https://github.com/olilarkin/awesome-musicdsp - Oli Larkin
 
 ## More audio programming advise
 * http://atastypixel.com/blog/four-common-mistakes-in-audio-development/ - Michael Tyson, maker of Loopy and Audiobus
