@@ -15,6 +15,7 @@
 * Making Audio Plug ins: http://www.martin-finke.de/blog/tags/making_audio_plugins.html
 * Cockos (makers of Reaper): https://www.cockos.com
 * Kimatica (maker of AUM): http://kymatica.com & http://lijon.github.io
+* Hack Audio: http://www.hackaudio.com
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -22,6 +23,9 @@
 * http://designingsound.org/2016/07/self-teaching-your-way-into-the-audio-world/
 * https://www.youtube.com/watch?v=Kpk67-nfpR0 - The Audio Programmer
 * https://www.kvraudio.com/forum/viewtopic.php?f=33&t=329696 - KVR
+
+## More audio programming advise
+* http://atastypixel.com/blog/four-common-mistakes-in-audio-development/ - Michael Tyson, maker of Loopy and Audiobus
 
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
