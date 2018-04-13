@@ -17,6 +17,8 @@
 * Kimatica (maker of AUM): http://kymatica.com & http://lijon.github.io
 * Hack Audio: http://www.hackaudio.com
 * Oli Larkin (Reaper, WDL/iPlug): http://www.olilarkin.co.uk
+* Awesome Music DSP by Oli Larkin: https://github.com/olilarkin/awesome-musicdsp
+* Acoustic and Audio Group @ Edinburgh: http://www.acoustics.ed.ac.uk
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -24,10 +26,14 @@
 * http://designingsound.org/2016/07/self-teaching-your-way-into-the-audio-world/
 * https://www.youtube.com/watch?v=Kpk67-nfpR0 - The Audio Programmer
 * https://www.kvraudio.com/forum/viewtopic.php?f=33&t=329696 - KVR
-* https://github.com/olilarkin/awesome-musicdsp - Oli Larkin
+
 
 ## More audio programming advise
 * http://atastypixel.com/blog/four-common-mistakes-in-audio-development/ - Michael Tyson, maker of Loopy and Audiobus
+
+## Audio related videos (tutorials, talks, etc...)
+* DAFx17 Tutorial 4: Julian Parker - From Algorithm to Instrument: https://www.youtube.com/watch?v=NuKRZ2-bsKQ
+* Dr Julian Parker on Virtual Analog Modelling: https://www.facebook.com/nordicsmc/videos/450642712037855/
 
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
@@ -84,6 +90,14 @@
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/AudioUnitDevelopmentFundamentals/AudioUnitDevelopmentFundamentals.html - Audio Unit Development Fundamentals
 * http://ruismaker.com/au-midi-plugins/ - AUv3 MIDI
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html - Core Audio Overview
+
+## iOS Audio apps
+* libPD: https://github.com/libpd/libpd
+* Audiobus sdk: https://developer.audiob.us
+* Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you.
+
+Just download the Ableton Link sample code, the Audiobus examples or the Apple AU sample code and you get something that works right out of the box. Added benefits: you learn exactly how stuff works because it's not some mysterious black box and you won't get weird license restrictions getting in the way."
+
 
 ## Good Blogs
 * http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
