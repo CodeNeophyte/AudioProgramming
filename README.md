@@ -34,6 +34,7 @@
 ## Audio related videos (tutorials, talks, etc...)
 * DAFx17 Tutorial 4: Julian Parker - From Algorithm to Instrument: https://www.youtube.com/watch?v=NuKRZ2-bsKQ
 * Dr Julian Parker on Virtual Analog Modelling: https://www.facebook.com/nordicsmc/videos/450642712037855/
+* Great talk about iOS audio apps: https://www.youtube.com/watch?v=KAXss-zmCsU&t=76s
 
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
