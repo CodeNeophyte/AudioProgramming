@@ -77,6 +77,11 @@
 * https://ccrma.stanford.edu/software/stk/ - Synthesis ToolKit info
 * https://github.com/thestk/stk - Synthesis ToolKit github
 
+## JUCE tutorials
+* Make a distortion app: https://www.youtube.com/watch?v=iNCR5flSuDs
+* The Audio Programmer (Best JUCE tuts): https://www.youtube.com/watch?v=OPSKfPWdr90
+* JUCE at youtube: https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ
+* JUCE tutorials at their homepage: https://juce.com/learn/tutorials
 
 ## DSP
 * http://dspguide.com
