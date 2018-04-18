@@ -19,6 +19,7 @@
 * Oli Larkin (Reaper, WDL/iPlug): http://www.olilarkin.co.uk
 * Awesome Music DSP by Oli Larkin: https://github.com/olilarkin/awesome-musicdsp
 * Acoustic and Audio Group @ Edinburgh: http://www.acoustics.ed.ac.uk
+* Ear Level Engineering (DSP): http://www.earlevel.com/main/
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -103,6 +104,10 @@
 * Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you.
 
 Just download the Ableton Link sample code, the Audiobus examples or the Apple AU sample code and you get something that works right out of the box. Added benefits: you learn exactly how stuff works because it's not some mysterious black box and you won't get weird license restrictions getting in the way."
+
+## MAX related
+* Max4Live (user made instruments): http://maxforlive.com/index.php
+* Max Objects: http://www.maxobjects.com
 
 
 ## Good Blogs
