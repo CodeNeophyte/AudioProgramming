@@ -50,6 +50,14 @@
 * The Audio Programming Book (Richard Boulanger/Victor Lazzarini)
 * Programming Electronic Music in Pure Data (Johannes Kreidler)
 * Electronic Music and Sound Design V1 & V2 (Alessandro Cipriani/Maurizio Giri)
+* Musimathics: The Mathematical Foundations of Music (MIT Press) (Volume 1) (Gareth Loy)
+* Musimathics: The Mathematical Foundations of Music (MIT Press) (Volume 2) (Gareth Loy)
+* Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units (Will Pirkle)
+* Designing Audio Effect Plug-Ins in C++: With Digital Audio Signal Processing Theory (Will Pirkle)
+* Physical Audio Signal Processing: for Virtual Musical Instruments and Digital Audio Effects (Julius O. Smith III)
+* Spectral Audio Signal Processing (Julius O. Smith III)
+* Introduction to Digital Filters: with Audio Applications (Julius O. Smith III)
+* Mathematics of the Discrete Fourier Transform (DFT): with Audio Applications ---- Second Edition (Julius O. Smith III)
 
 ## Open Source
 * http://zynaddsubfx.sourceforge.net
