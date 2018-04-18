@@ -37,6 +37,9 @@
 * Dr Julian Parker on Virtual Analog Modelling: https://www.facebook.com/nordicsmc/videos/450642712037855/
 * Great talk about iOS audio apps: https://www.youtube.com/watch?v=KAXss-zmCsU&t=76s
 
+## Audio Gold Nuggets
+* The CD-quality sample rate is 44.1kHz, which means there needs to be 44100 samples per second per channel sent to the audio hardware for playback. Rather than being passed to the audio hardware a single sample at a time, the samples are passed in buffers — or blocks — containing a certain number of samples. For example, at 44.1kHz and a block size of 441 our AudioAppComponent::getNextAudioBlock() function would be called 100 times per second. (From JUCE Tutorial)
+
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
 * MIT - Music and Technology: Algorithmic and Generative Music: https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/
