@@ -61,6 +61,8 @@
 * Spectral Audio Signal Processing (Julius O. Smith III)
 * Introduction to Digital Filters: with Audio Applications (Julius O. Smith III)
 * Mathematics of the Discrete Fourier Transform (DFT): with Audio Applications ---- Second Edition (Julius O. Smith III)
+* Audio Effects: Theory, Implementation, and Application: https://www.amazon.com/Audio-Effects-Theory-Implementation-Application/dp/1466560282/ref=sr_1_2?ie=UTF8&qid=1524259110&sr=8-2&keywords=audio+effects
+* DAFX: Digital Audio Effects: https://www.amazon.com/DAFX-Digital-Effects-Udo-Zölzer/dp/0470665998/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0470665998&pd_rd_r=ZTV58MPVSHTJ42H8J7MW&pd_rd_w=5sqaI&pd_rd_wg=XShLe&psc=1&refRID=ZTV58MPVSHTJ42H8J7MW
 
 ## Open Source
 * http://zynaddsubfx.sourceforge.net
@@ -99,6 +101,10 @@
 ## DSP
 * http://dspguide.com
 * https://www.youtube.com/watch?v=tx_cjBjZ2zM - DSP Videos with good links
+
+## C++ audio
+* OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
+* Code examples for the video above: https://github.com/OneLoneCoder/synth/tree/master
 
 ## Ideas/Interests
 1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
