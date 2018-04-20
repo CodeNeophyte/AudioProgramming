@@ -88,6 +88,7 @@
 * https://github.com/lijon/TheAmazingAudioEngine - for mobile & documentation: http://theamazingaudioengine.com/doc/
 * https://ccrma.stanford.edu/software/stk/ - Synthesis ToolKit info
 * https://github.com/thestk/stk - Synthesis ToolKit github
+* https://github.com/superpoweredSDK/Low-Latency-Android-iOS-Linux-Windows-tvOS-macOS-Interactive-Audio-Platform - SuperPowered SDK
 
 ## JUCE tutorials
 * Make a distortion app: https://www.youtube.com/watch?v=iNCR5flSuDs
@@ -110,9 +111,24 @@
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html - Core Audio Overview
 
 ## iOS Audio apps
+* Core Audio Overview: https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40003577-CH1-SW1
 * libPD: https://github.com/libpd/libpd
 * Audiobus sdk: https://developer.audiob.us
 * Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you.
+* Using RemoteIO audio unit: http://atastypixel.com/blog/using-remoteio-audio-unit/
+* iPhone Core Audio Brain Dump: http://subfurther.com/blog/2009/04/28/an-iphone-core-audio-brain-dump/
+* Real-time Digital Effects Processing using iOS: http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1185&context=cpesp
+* Functional Signal Processing with Swift: https://www.objc.io/issues/24-audio/functional-signal-processing/
+
+#### AVAudioEngine
+* Advise: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
+
+#### iOS frameworks
+* TAAE2 (deprecated): https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2
+* Novocaine: https://github.com/alexbw/novocaine
+* NVDSP: https://github.com/bartolsthoorn/NVDSP
+
+
 
 Just download the Ableton Link sample code, the Audiobus examples or the Apple AU sample code and you get something that works right out of the box. Added benefits: you learn exactly how stuff works because it's not some mysterious black box and you won't get weird license restrictions getting in the way."
 
