@@ -79,6 +79,11 @@
 * C++
 * Sporth - https://github.com/PaulBatchelor/Sporth
 * Faust (DSP) - http://faust.grame.fr
+* Haskell - http://haskellformac.com/haskell-for-mac-learning-haskell.html
+
+## Make music with code
+* Make music with Haskell: https://tidalcycles.org
+* Make music with Ruby: https://sonic-pi.net
 
 ## Frameworks and libraries
 * https://juce.com - C++ framework
@@ -146,6 +151,9 @@ Just download the Ableton Link sample code, the Audiobus examples or the Apple A
 ## MAX related
 * Max4Live (user made instruments): http://maxforlive.com/index.php
 * Max Objects: http://www.maxobjects.com
+
+## Arduino Audio
+* Mozzi (Audio synthesis library for Arduino): http://sensorium.github.io/Mozzi/
 
 
 ## Good Blogs
