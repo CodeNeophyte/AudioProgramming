@@ -126,6 +126,7 @@
 * iPhone Core Audio Brain Dump: http://subfurther.com/blog/2009/04/28/an-iphone-core-audio-brain-dump/
 * Real-time Digital Effects Processing using iOS: http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1185&context=cpesp
 * Functional Signal Processing with Swift: https://www.objc.io/issues/24-audio/functional-signal-processing/
+* How to capture audio samples in iOS with Swift?: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
 
 #### AVAudioEngine
 * Advise: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
