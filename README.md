@@ -20,6 +20,7 @@
 * Awesome Music DSP by Oli Larkin: https://github.com/olilarkin/awesome-musicdsp
 * Acoustic and Audio Group @ Edinburgh: http://www.acoustics.ed.ac.uk
 * Ear Level Engineering (DSP): http://www.earlevel.com/main/
+* How to do realtime recording with effect processing on iOS (Teragon Audio): http://teragonaudio.com/article/How-to-do-realtime-recording-with-effect-processing-on-iOS.html 
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
