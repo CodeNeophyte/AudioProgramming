@@ -128,9 +128,11 @@
 * Functional Signal Processing with Swift: https://www.objc.io/issues/24-audio/functional-signal-processing/
 * How to capture audio samples in iOS with Swift?: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
 * Create your first AudioUnitv3: http://subfurther.com/blog/2017/04/28/brain-dump-v3-audio-units/
+* How to do realtime recording with effect processing on iOS: http://teragonaudio.com/article/How-to-do-realtime-recording-with-effect-processing-on-iOS.html
 
 #### AVAudioEngine
 * Advise: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
+* Audio Manipulation Using AVAudioEngine: https://blog.metova.com/audio-manipulation-using-avaudioengine
 
 #### iOS frameworks
 * TAAE2 (deprecated): https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine2
