@@ -77,6 +77,8 @@
 * Pure Data - https://puredata.info
 * C
 * C++
+  * C++ Certificate: https://www.pce.uw.edu/certificates/c-plus-plus-programming
+  * Awesome C++: https://github.com/fffaraz/awesome-cpp
 * Sporth - https://github.com/PaulBatchelor/Sporth
 * Faust (DSP) - http://faust.grame.fr
 * Haskell - http://haskellformac.com/haskell-for-mac-learning-haskell.html
