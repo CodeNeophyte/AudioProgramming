@@ -111,6 +111,7 @@
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
 * Code examples for the video above: https://github.com/OneLoneCoder/synth/tree/master
+* VSTGUI: https://github.com/steinbergmedia/vstgui
 
 ## Ideas/Interests
 1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
