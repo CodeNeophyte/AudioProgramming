@@ -110,6 +110,7 @@
 * http://dspguide.com
 * https://www.youtube.com/watch?v=tx_cjBjZ2zM - DSP Videos with good links
 * https://www.youtube.com/watch?v=RgVFseTftOQ - Audio DSP Programming Basics
+* https://www.youtube.com/watch?v=hVOA8VtKLgk - Great DSP Lecture by Rich Radke of Rensselaer Polytechnic Institute (video 1 of 28)
 
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
