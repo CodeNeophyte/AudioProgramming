@@ -173,6 +173,7 @@ Just download the Ableton Link sample code, the Audiobus examples or the Apple A
 * https://christianfloisand.wordpress.com
 * http://trashaudio.com
 * http://www.earlevel.com/main/ - Amazing DSP blog going back a few years, still current
+* http://www.jackcampbellsounds.com/programming/2017/3/17/posts-to-come - Audio Engine in C++
 
 ## Podcasts
 * http://artmusictech.libsyn.com - Art + Music + Technology podcast made by Darwin
