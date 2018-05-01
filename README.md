@@ -21,6 +21,8 @@
 * Acoustic and Audio Group @ Edinburgh: http://www.acoustics.ed.ac.uk
 * Ear Level Engineering (DSP): http://www.earlevel.com/main/
 * How to do realtime recording with effect processing on iOS (Teragon Audio): http://teragonaudio.com/article/How-to-do-realtime-recording-with-effect-processing-on-iOS.html 
+* Julius O Smith home page at CCRMA: https://ccrma.stanford.edu/~jos/
+* Free pubs by Julius O Smith: https://ccrma.stanford.edu/~jos/pubs.html
 
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
@@ -59,6 +61,7 @@
 * Designing Software Synthesizer Plug-Ins in C++: For RackAFX, VST3, and Audio Units (Will Pirkle)
 * Designing Audio Effect Plug-Ins in C++: With Digital Audio Signal Processing Theory (Will Pirkle)
 * Physical Audio Signal Processing: for Virtual Musical Instruments and Digital Audio Effects (Julius O. Smith III)
+ * Free at: https://ccrma.stanford.edu/~jos/pasp/pasp.html
 * Spectral Audio Signal Processing (Julius O. Smith III)
 * Introduction to Digital Filters: with Audio Applications (Julius O. Smith III)
 * Mathematics of the Discrete Fourier Transform (DFT): with Audio Applications ---- Second Edition (Julius O. Smith III)
