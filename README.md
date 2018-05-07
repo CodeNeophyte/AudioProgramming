@@ -120,6 +120,10 @@
 * https://hackaday.com/2016/06/30/tutorial-on-signal-processing-in-linux-with-octave/
 * Scilab - signal processing: https://help.scilab.org/docs/6.0.0/en_US/section_dbbac6be408104de3049eddefaf6b9c9.html
 
+## Math refreshers
+* http://tutorial.math.lamar.edu (great cheat sheets)
+
+
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
 * Code examples for the video above: https://github.com/OneLoneCoder/synth/tree/master
