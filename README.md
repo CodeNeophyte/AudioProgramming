@@ -114,6 +114,11 @@
 * https://www.youtube.com/watch?v=tx_cjBjZ2zM - DSP Videos with good links
 * https://www.youtube.com/watch?v=RgVFseTftOQ - Audio DSP Programming Basics
 * https://www.youtube.com/watch?v=hVOA8VtKLgk - Great DSP Lecture by Rich Radke of Rensselaer Polytechnic Institute (video 1 of 28)
+* https://www.dsprelated.com
+* Matlab clones (free dsp software): https://dspguru.com/dsp/links/matlab-clones/
+* https://dspguru.com
+* https://hackaday.com/2016/06/30/tutorial-on-signal-processing-in-linux-with-octave/
+* Scilab - signal processing: https://help.scilab.org/docs/6.0.0/en_US/section_dbbac6be408104de3049eddefaf6b9c9.html
 
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
