@@ -123,6 +123,9 @@
 ## Math refreshers
 * http://tutorial.math.lamar.edu (great cheat sheets)
 
+## Physics of Sounds
+* https://www.khanacademy.org/science/physics/mechanical-waves-and-sound
+
 
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
