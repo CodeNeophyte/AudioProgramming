@@ -24,6 +24,10 @@
 * Julius O Smith home page at CCRMA: https://ccrma.stanford.edu/~jos/
 * Free pubs by Julius O Smith: https://ccrma.stanford.edu/~jos/pubs.html
 
+## Audio Basics
+* Learn about waveforms: https://pudding.cool/2018/02/waveforms/
+* https://www.khanacademy.org/science/physics/mechanical-waves-and-sound
+
 ## Advice for getting into audio programming
 * https://www.reddit.com/r/learnprogramming/comments/1n05ff/learning_audio_programming/
 * https://ask.metafilter.com/308083/Best-books-resources-for-learning-audio-programmingalso
@@ -172,9 +176,16 @@ Just download the Ableton Link sample code, the Audiobus examples or the Apple A
 * Max4Live (user made instruments): http://maxforlive.com/index.php
 * Max Objects: http://www.maxobjects.com
 
+### GEN
+* Gen plug in export: https://github.com/Cycling74/gen-plugin-export
+
 ## Arduino Audio
 * Mozzi (Audio synthesis library for Arduino): http://sensorium.github.io/Mozzi/
 
+## Web Audio
+* Web Audio Weekly: https://www.webaudioweekly.com
+* Web Audio School: http://mmckegg.github.io/web-audio-school/
+* Web Audio Modules: https://www.webaudiomodules.org
 
 ## Good Blogs
 * http://darwingrosse.com - Darwin is a Cycling 74 employee and musician
