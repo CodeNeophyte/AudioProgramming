@@ -47,6 +47,8 @@
 ## Audio Gold Nuggets
 * The CD-quality sample rate is 44.1kHz, which means there needs to be 44100 samples per second per channel sent to the audio hardware for playback. Rather than being passed to the audio hardware a single sample at a time, the samples are passed in buffers — or blocks — containing a certain number of samples. For example, at 44.1kHz and a block size of 441 our AudioAppComponent::getNextAudioBlock() function would be called 100 times per second. (From JUCE Tutorial)
 
+* Just download the Ableton Link sample code, the Audiobus examples or the Apple AU sample code and you get something that works right out of the box. Added benefits: you learn exactly how stuff works because it's not some mysterious black box and you won't get weird license restrictions getting in the way."
+
 ## Courses
 * MIT - Interactive Music Systems: https://ocw.mit.edu/courses/music-and-theater-arts/21m-385-interactive-music-systems-fall-2016/index.htm
 * MIT - Music and Technology: Algorithmic and Generative Music: https://ocw.mit.edu/courses/music-and-theater-arts/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/
@@ -132,7 +134,6 @@
 ## Physics of Sounds
 * https://www.khanacademy.org/science/physics/mechanical-waves-and-sound
 
-
 ## C++ audio
 * OneLoneCoder - Sound Synthesizer: https://www.youtube.com/watch?v=tgamhuQnOkM
 * Code examples for the video above: https://github.com/OneLoneCoder/synth/tree/master
@@ -170,9 +171,8 @@
 * Novocaine: https://github.com/alexbw/novocaine
 * NVDSP: https://github.com/bartolsthoorn/NVDSP
 
-
-
-Just download the Ableton Link sample code, the Audiobus examples or the Apple AU sample code and you get something that works right out of the box. Added benefits: you learn exactly how stuff works because it's not some mysterious black box and you won't get weird license restrictions getting in the way."
+#### AudioKit
+* https://github.com/AudioKit/AnalogSynthX
 
 ## MAX related
 * Max4Live (user made instruments): http://maxforlive.com/index.php
@@ -210,6 +210,7 @@ Just download the Ableton Link sample code, the Audiobus examples or the Apple A
 #### Arduino base
 * https://meeblip.com - Open source Synth
 * https://github.com/MeeBlip - Meeblip repo
+
 #### littleBits
 * https://littlebits.cc/meet-darwin
 
