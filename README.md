@@ -127,6 +127,7 @@
 ## Math refreshers
 * http://tutorial.math.lamar.edu (great cheat sheets)
 * https://artofproblemsolving.com
+* https://brilliant.org (learn math through problem solving)
 
 ## Physics of Sounds
 * https://www.khanacademy.org/science/physics/mechanical-waves-and-sound
