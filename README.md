@@ -35,7 +35,6 @@
 * https://www.youtube.com/watch?v=Kpk67-nfpR0 - The Audio Programmer
 * https://www.kvraudio.com/forum/viewtopic.php?f=33&t=329696 - KVR
 
-
 ## More audio programming advise
 * http://atastypixel.com/blog/four-common-mistakes-in-audio-development/ - Michael Tyson, maker of Loopy and Audiobus
 
@@ -200,6 +199,9 @@ Still not trivial, but a more realistic goal for a novice project :)"
 
 #### AudioKit
 * https://github.com/AudioKit/AnalogSynthX
+
+#### Tutorials
+* Using The Amazing Audio Engine with the Synthesis Toolkit in C++: https://arielelkin.github.io/articles/mandolin
 
 ## MAX related
 * Max4Live (user made instruments): http://maxforlive.com/index.php
