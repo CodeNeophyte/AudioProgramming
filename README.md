@@ -126,6 +126,7 @@
 * https://dspguru.com
 * https://hackaday.com/2016/06/30/tutorial-on-signal-processing-in-linux-with-octave/
 * Scilab - signal processing: https://help.scilab.org/docs/6.0.0/en_US/section_dbbac6be408104de3049eddefaf6b9c9.html
+* https://www.quora.com/What-programming-languages-are-most-useful-for-digital-signal-processing-specifically-with-audio
 
 ## Math refreshers
 * http://tutorial.math.lamar.edu (great cheat sheets)
