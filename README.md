@@ -91,6 +91,7 @@
 * Sporth - https://github.com/PaulBatchelor/Sporth
 * Faust (DSP) - http://faust.grame.fr
 * Haskell - http://haskellformac.com/haskell-for-mac-learning-haskell.html
+* Wiki: https://en.wikipedia.org/wiki/List_of_audio_programming_languages
 
 ## Make music with code
 * Make music with Haskell: https://tidalcycles.org
