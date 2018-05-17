@@ -74,7 +74,7 @@
 * Audio Effects: Theory, Implementation, and Application: https://www.amazon.com/Audio-Effects-Theory-Implementation-Application/dp/1466560282/ref=sr_1_2?ie=UTF8&qid=1524259110&sr=8-2&keywords=audio+effects
 * DAFX: Digital Audio Effects: https://www.amazon.com/DAFX-Digital-Effects-Udo-Zölzer/dp/0470665998/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=0470665998&pd_rd_r=ZTV58MPVSHTJ42H8J7MW&pd_rd_w=5sqaI&pd_rd_wg=XShLe&psc=1&refRID=ZTV58MPVSHTJ42H8J7MW
 
-## Open Source
+## Open Source CS resources
 * http://zynaddsubfx.sourceforge.net
 * https://github.com/ossu/computer-science - open source computer science
 * https://see.stanford.edu - Standford Computer Science/engineering courses
@@ -139,17 +139,40 @@
 * Code examples for the video above: https://github.com/OneLoneCoder/synth/tree/master
 * VSTGUI: https://github.com/steinbergmedia/vstgui
 
-## Ideas/Interests
-1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
-2. build interactive synthesis objects that allows OS to control sound parameters dynamically
-3. Start several distinct music processes that respond to actions upon particular game objects/user interactions 
 
-## Programming Audio Units
+# iOS music app development
+## Good Advice for iOS Development
+* Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you."
+ * "The biggest trick is to learn how to eat an elephant: in many tiny little bites In other words: learn how to break down the project into a collection of many small problems that need to be solved one by one. It will make the learning curve more manageable and rewarding as it will give you a long chain of gratifying victories"
+
+* More advice from Brambos: "Making something that produces sound is probably not too hard (altough quite a bit harder than making a website with a Wordpress template).
+
+Making a decent music app is really hard. There are a couple of things you need to master:
+
+Programming the app (the basic framework of an app, coding the UI behavior and handling of user interaction). Ideally done in Objective-C, mixed with lots of C/C++ for the realtime audio bits. Swift is not yet a real option since most low-level frameworks are still built around (Objective-)C. Also, you need to be good at optimizing code in really clever ways if you have any hopes of doing stuff in real time with low latency.
+
+DSP: generating and manipulating sound. Nothing about this is easy. If something seems simple, you're probably doing it wrong and soon you're in for a world of aliasing and distortion :D Lots of physics and maths involved here. Be prepared to put lots of hours into studying highly arcane aspects of physics and signal theory and brushing up on your trigonometry. Again, knowing the physics is not enough. You need to be able to build your DSP code so efficiently that it can be run in realtime without cutting corners wrt sound quality. You and Mr. Niquist are going to be very close friends.
+
+Design: underestimated by many app developers. It can be the little things that make or break a workflow. And that's before you even get into the aesthetics, established interaction design patterns and how to deal with device fragmentation. Particularly hard on iOS because no two workflows are the same and people expect you to consider even the most obscure use cases of how your app will be used in conjunction with a chain of other apps.
+
+The crazy intricacies of low level audio tech, i.e. CoreAudio, AudioUnits, CoreMidi, Ableton Link, etc. Many aspects of this are barely documented and need to reverse engineered by looking at C header files and labyrinthine sample code. Sometimes bugs in the OS (or third party libraries/apps) will have you pulling out your hair for days. And you have to understand low-level system stuff like threading priorities and locking to make sure your fancy GUI doesn't clash with realtime audio processing causing inexplicable glitches and clicks.
+
+Sorry if this sounds off-putting, but there really is nothing easy about it if your ambition is to go beyond the point of an app that just plays a WAV file when you press a button on the screen B)
+
+If you've already covered some of the above to some extent you have a pretty good starting point, however, and everything can be learned if you put your heart into it. If you're starting from scratch I would recommend beginning with something a bit simpler. :)
+
+To counterbalance with a slightly more encouraging suggestion: I would start with a MIDI app because that would get the nasty real-time DSP out of the equation and be a more gentle introduction into the world of iOS music.
+
+Still not trivial, but a more realistic goal for a novice project :)"
+
+* More advice: "A basic delay, flanger or distortion effect though? Probably a lot easier. The guts of the C/C++ code for the core DSP algorithms are out there. Sort out how to wire it up. Then add stuff. If I'm not mistaken, this is how Holderness got started! For sure, the somewhat obtuse notion of 'a good flanger' will likely not come from pulling a repo on github. But it can get you started if you're interested. A little more complicated but not in the Phasemaker realm: a basic VA subtractive synth. One OSC, a LPF and an envelope where the pitch of the osc is mapped to a keyboard. There are tutorials out there for this. And these days you can cook one up with Javascript. Will not be of much practical use on iOS but the core concepts are the same and you can learn on any OS without needing to deal with compilers."
+
+### Programming Audio Units
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/AudioUnitProgrammingGuide/AudioUnitDevelopmentFundamentals/AudioUnitDevelopmentFundamentals.html - Audio Unit Development Fundamentals
 * http://ruismaker.com/au-midi-plugins/ - AUv3 MIDI
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html - Core Audio Overview
 
-## iOS Audio apps
+### iOS Audio apps
 * Core Audio Overview: https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40003577-CH1-SW1
 * libPD: https://github.com/libpd/libpd
 * Audiobus sdk: https://developer.audiob.us
@@ -161,6 +184,8 @@
 * How to capture audio samples in iOS with Swift?: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
 * Create your first AudioUnitv3: http://subfurther.com/blog/2017/04/28/brain-dump-v3-audio-units/
 * How to do realtime recording with effect processing on iOS: http://teragonaudio.com/article/How-to-do-realtime-recording-with-effect-processing-on-iOS.html
+* https://forum.audiob.us/discussion/17445/how-difficult-is-it-to-develop-a-musical-app
+* https://www.kvraudio.com/forum/viewtopic.php?f=33&t=482362
 
 #### AVAudioEngine
 * Advise: https://stackoverflow.com/questions/30957434/how-to-capture-audio-samples-in-ios-with-swift
@@ -217,13 +242,19 @@
 ## Employers - besides the usual suspects and major audio/music complanies
 * https://artandlogic.com
 
-## Sound Design
-* https://www.pointblankmusicschool.com/courses/online/professional-programmes/complete-sound-design/
-
 ## Resources
 * https://newt.phys.unsw.edu.au/jw/notes.html - MIDI to Frequency table
 
-## Focus areas/Goals for music technology (taken from Calarts website)
+## Misc
+### Sound Design
+* https://www.pointblankmusicschool.com/courses/online/professional-programmes/complete-sound-design/
+
+### Ideas/Interests
+1. algorithmic/generative music (in addition: processes that ‘tracks’ parameters) 
+2. build interactive synthesis objects that allows OS to control sound parameters dynamically
+3. Start several distinct music processes that respond to actions upon particular game objects/user interactions 
+
+### Focus areas/Goals for music technology (taken from Calarts website)
 The Music Technology program aims to built strong musical skills while promoting the mastery of a variety of music-related technologies in the context of pursuing creative work. Specifically, Music Technology students will have opportunities to:
 
 * become trained musicians able to work in a variety of musical ensembles and global music productions, with appropriate competencies in music theory and musicianship skills, while emphasizing the specialties of 21st Century music technology;
@@ -235,7 +266,7 @@ The Music Technology program aims to built strong musical skills while promoting
 * acquire knowledge of basic digital signal processing and how it relates to audio, including time and frequency domain processing and how these may be manipulated for artistic practices;
 * develop high-level practical and professional skills, including the ability to synthesize diverse studies, project planning, execution, time management, and documentation of both technical and musical work at a level suitable for publication in a professional journal.
 
-## Music technology MFA degree requirement
+### Music technology MFA degree requirement
 #### Program Requirements
 
 * MTEC600 Topics in Music Technology (2 classes)
