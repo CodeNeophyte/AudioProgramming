@@ -143,7 +143,7 @@
 # iOS music app development
 ## Good Advice for iOS Development
 * Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you."
- * "The biggest trick is to learn how to eat an elephant: in many tiny little bites In other words: learn how to break down the project into a collection of many small problems that need to be solved one by one. It will make the learning curve more manageable and rewarding as it will give you a long chain of gratifying victories"
+** "The biggest trick is to learn how to eat an elephant: in many tiny little bites In other words: learn how to break down the project into a collection of many small problems that need to be solved one by one. It will make the learning curve more manageable and rewarding as it will give you a long chain of gratifying victories"
 
 * More advice from Brambos: "Making something that produces sound is probably not too hard (altough quite a bit harder than making a website with a Wordpress template).
 
@@ -176,7 +176,6 @@ Still not trivial, but a more realistic goal for a novice project :)"
 * Core Audio Overview: https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40003577-CH1-SW1
 * libPD: https://github.com/libpd/libpd
 * Audiobus sdk: https://developer.audiob.us
-* Advice from Brambos: "If you're staying on iOS, I would avoid using 3rd party APIs and simply stick to the system audio APIs. That way you can at least fix things when Apple breaks something in an iOS update without you having to wait for others to fix the frameworks for you.
 * Using RemoteIO audio unit: http://atastypixel.com/blog/using-remoteio-audio-unit/
 * iPhone Core Audio Brain Dump: http://subfurther.com/blog/2009/04/28/an-iphone-core-audio-brain-dump/
 * Real-time Digital Effects Processing using iOS: http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1185&context=cpesp
