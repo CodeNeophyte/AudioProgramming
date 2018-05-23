@@ -176,6 +176,8 @@ Still not trivial, but a more realistic goal for a novice project :)"
 * http://ruismaker.com/au-midi-plugins/ - AUv3 MIDI
 * https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html - Core Audio Overview
 * How to setup AUv3: https://www.kvraudio.com/forum/viewtopic.php?f=33&t=482362
+* Creating AUv3 midi, part 0: http://www.rockhoppertech.com/blog/auv3-midi/
+* Creating AUv3 midi, part 1: http://www.rockhoppertech.com/blog/audio-units-auv3-parameters-part-1/
 
 ### iOS Audio apps
 * Core Audio Overview: https://developer.apple.com/library/content/documentation/MusicAudio/Conceptual/CoreAudioOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40003577-CH1-SW1
