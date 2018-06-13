@@ -134,6 +134,8 @@ by Stefan Bilbao (Author)
 * http://tutorial.math.lamar.edu (great cheat sheets)
 * https://artofproblemsolving.com
 * https://brilliant.org (learn math through problem solving)
+* https://sites.google.com/site/butwhymath/home (But Why Math - great explanation of different math topics)
+* https://betterexplained.com (Excellent explanation of math concepts)
 
 ## Physics of Sounds
 * https://www.khanacademy.org/science/physics/mechanical-waves-and-sound
