@@ -37,6 +37,7 @@
 
 ## More audio programming advise
 * http://atastypixel.com/blog/four-common-mistakes-in-audio-development/ - Michael Tyson, maker of Loopy and Audiobus
+* http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing - Ross Bencina
 
 ## Audio related videos (tutorials, talks, etc...)
 * DAFx17 Tutorial 4: Julian Parker - From Algorithm to Instrument: https://www.youtube.com/watch?v=NuKRZ2-bsKQ
